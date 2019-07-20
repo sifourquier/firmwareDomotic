@@ -1,0 +1,5 @@
+timer usage
+timer32_0 modbus
+timer32_1 pwm
+timer16_0 1wire, fréqu out for ferofluid
+timer16_1 triac

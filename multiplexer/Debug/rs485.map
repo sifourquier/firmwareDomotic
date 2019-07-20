@@ -1,0 +1,1664 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+                              ./src/cr_startup_lpc11xx.o (__main)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+                              ./src/modbus.o (memcpy)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o) (_initio)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+                              ./src/firmware.o (_printf)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o) (setvbuf)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (strlen)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (memset)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (__flsbuf)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o) (_fdopen)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o) (_fflush)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o) (_Cwritebuf)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (malloc)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o) (fclose)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o) (fflush)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o) (fseek)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o) (ftell)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o) (remove)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o) (__heaps)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o) (_sbrk)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o) (_do_fflush)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o) (errno)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+                              ./src/TLI4970.o (__aeabi_idiv)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+                              ./src/pwm.o (__aeabi_uldivmod)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+                              ./src/modbus.o (__aeabi_ddiv)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (__aeabi_lmul)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o) (__aeabi_memcpy)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o) (__Ciob)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o) (__sys_appexit)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o) (__sys_close)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o) (__sys_flen)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o) (__sys_istty)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o) (__sys_remove)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o) (__sys_rename)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o) (__sys_seek)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o) (__sys_tmpnam)
+/usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+                              /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o) (__sys_write)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/DS18B20.o
+ .group         0x0000000000000000        0xc ./src/DS18B20.o
+ .group         0x0000000000000000        0xc ./src/DS18B20.o
+ .group         0x0000000000000000        0xc ./src/DS18B20.o
+ .group         0x0000000000000000        0xc ./src/DS18B20.o
+ .text          0x0000000000000000        0x0 ./src/DS18B20.o
+ .data          0x0000000000000000        0x0 ./src/DS18B20.o
+ .bss           0x0000000000000000        0x0 ./src/DS18B20.o
+ .text.initDS18B20
+                0x0000000000000000       0x30 ./src/DS18B20.o
+ .text.getIdDS18B20
+                0x0000000000000000       0x40 ./src/DS18B20.o
+ .text.RunDS18B20
+                0x0000000000000000       0x20 ./src/DS18B20.o
+ .text.readDS18B20
+                0x0000000000000000       0x20 ./src/DS18B20.o
+ .text.getDS18B20
+                0x0000000000000000       0x2e ./src/DS18B20.o
+ .text.getAndRunDS18B20
+                0x0000000000000000       0x58 ./src/DS18B20.o
+ .rodata        0x0000000000000000       0x12 ./src/DS18B20.o
+ .debug_info    0x0000000000000000      0x37d ./src/DS18B20.o
+ .debug_abbrev  0x0000000000000000      0x152 ./src/DS18B20.o
+ .debug_loc     0x0000000000000000       0x55 ./src/DS18B20.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./src/DS18B20.o
+ .debug_ranges  0x0000000000000000       0x38 ./src/DS18B20.o
+ .debug_macro   0x0000000000000000       0x63 ./src/DS18B20.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/DS18B20.o
+ .debug_macro   0x0000000000000000       0x10 ./src/DS18B20.o
+ .debug_macro   0x0000000000000000      0x12d ./src/DS18B20.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/DS18B20.o
+ .debug_macro   0x0000000000000000       0x16 ./src/DS18B20.o
+ .debug_line    0x0000000000000000      0x1b8 ./src/DS18B20.o
+ .debug_str     0x0000000000000000     0x448f ./src/DS18B20.o
+ .comment       0x0000000000000000       0x7f ./src/DS18B20.o
+ .debug_frame   0x0000000000000000       0xa8 ./src/DS18B20.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./src/DS18B20.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/TLI4970.o
+ .text          0x0000000000000000        0x0 ./src/TLI4970.o
+ .data          0x0000000000000000        0x0 ./src/TLI4970.o
+ .bss           0x0000000000000000        0x0 ./src/TLI4970.o
+ .text.initTLI4970
+                0x0000000000000000        0xa ./src/TLI4970.o
+ .text.readTLI4970
+                0x0000000000000000       0x54 ./src/TLI4970.o
+ .debug_info    0x0000000000000000      0x27f ./src/TLI4970.o
+ .debug_abbrev  0x0000000000000000      0x183 ./src/TLI4970.o
+ .debug_loc     0x0000000000000000       0x5c ./src/TLI4970.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./src/TLI4970.o
+ .debug_ranges  0x0000000000000000       0x18 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0xb0 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x10 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x12d ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x118 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x1c ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x1c ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x22 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x360 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x131 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x1c ./src/TLI4970.o
+ .debug_macro   0x0000000000000000      0x136 ./src/TLI4970.o
+ .debug_macro   0x0000000000000000       0x22 ./src/TLI4970.o
+ .debug_line    0x0000000000000000      0x1e7 ./src/TLI4970.o
+ .debug_str     0x0000000000000000     0x6edb ./src/TLI4970.o
+ .comment       0x0000000000000000       0x7f ./src/TLI4970.o
+ .debug_frame   0x0000000000000000       0x48 ./src/TLI4970.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./src/TLI4970.o
+ .group         0x0000000000000000        0xc ./src/cr_startup_lpc11xx.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc11xx.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc11xx.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/cr_startup_lpc11xx.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/firmware.o
+ .text          0x0000000000000000        0x0 ./src/firmware.o
+ .data          0x0000000000000000        0x0 ./src/firmware.o
+ .bss           0x0000000000000000        0x0 ./src/firmware.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/firmware.o
+ .debug_macro   0x0000000000000000       0x1c ./src/firmware.o
+ .debug_macro   0x0000000000000000       0x10 ./src/firmware.o
+ .debug_macro   0x0000000000000000      0x12d ./src/firmware.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/firmware.o
+ .debug_macro   0x0000000000000000       0x1c ./src/firmware.o
+ .debug_macro   0x0000000000000000       0x22 ./src/firmware.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/firmware.o
+ .debug_macro   0x0000000000000000      0x360 ./src/firmware.o
+ .debug_macro   0x0000000000000000      0x131 ./src/firmware.o
+ .debug_macro   0x0000000000000000       0x34 ./src/firmware.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/gpio.o
+ .text          0x0000000000000000        0x0 ./src/gpio.o
+ .data          0x0000000000000000        0x0 ./src/gpio.o
+ .bss           0x0000000000000000        0x0 ./src/gpio.o
+ .text.GPIOInit
+                0x0000000000000000       0x48 ./src/gpio.o
+ .text.GPIOSetInterrupt
+                0x0000000000000000      0x1c0 ./src/gpio.o
+ .text.GPIOIntStatus
+                0x0000000000000000       0x70 ./src/gpio.o
+ .text.GPIOGetValue
+                0x0000000000000000       0x38 ./src/gpio.o
+ .text.GPIOSetValue
+                0x0000000000000000       0x14 ./src/gpio.o
+ .text.GPIOSetDir
+                0x0000000000000000       0x38 ./src/gpio.o
+ .bss.gpio0_counter
+                0x0000000000000000        0x4 ./src/gpio.o
+ .bss.gpio1_counter
+                0x0000000000000000        0x4 ./src/gpio.o
+ .bss.p0_1_counter
+                0x0000000000000000        0x4 ./src/gpio.o
+ .bss.p1_1_counter
+                0x0000000000000000        0x4 ./src/gpio.o
+ .rodata.LPC_GPIO
+                0x0000000000000000       0x10 ./src/gpio.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./src/gpio.o
+ .debug_macro   0x0000000000000000       0x10 ./src/gpio.o
+ .debug_macro   0x0000000000000000      0x12d ./src/gpio.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./src/gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./src/gpio.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/gpio.o
+ .debug_macro   0x0000000000000000      0x360 ./src/gpio.o
+ .debug_macro   0x0000000000000000      0x131 ./src/gpio.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/iap_driver.o
+ .text          0x0000000000000000        0x0 ./src/iap_driver.o
+ .data          0x0000000000000000        0x0 ./src/iap_driver.o
+ .bss           0x0000000000000000        0x0 ./src/iap_driver.o
+ .text.iap_init
+                0x0000000000000000       0x20 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0x1c ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0x10 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000      0x12d ./src/iap_driver.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0x1c ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0x22 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000      0x360 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000      0x131 ./src/iap_driver.o
+ .debug_macro   0x0000000000000000       0x82 ./src/iap_driver.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .text.modBusCallBackWrite
+                0x0000000000000000       0x3c ./src/main.o
+ .text.modBusCallBackRead
+                0x0000000000000000      0x180 ./src/main.o
+ .data.out      0x0000000000000000        0x8 ./src/main.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./src/main.o
+ .debug_macro   0x0000000000000000      0x12d ./src/main.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/main.o
+ .debug_macro   0x0000000000000000      0x360 ./src/main.o
+ .debug_macro   0x0000000000000000      0x131 ./src/main.o
+ .debug_macro   0x0000000000000000       0x82 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./src/main.o
+ .debug_macro   0x0000000000000000      0x136 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0x16 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/modbus.o
+ .text          0x0000000000000000        0x0 ./src/modbus.o
+ .data          0x0000000000000000        0x0 ./src/modbus.o
+ .bss           0x0000000000000000        0x0 ./src/modbus.o
+ .text.modeBusUartRx
+                0x0000000000000000       0x98 ./src/modbus.o
+ .text.modBusSetCallbackWrite
+                0x0000000000000000        0xc ./src/modbus.o
+ .text.modBusSetCallbackRead
+                0x0000000000000000        0xc ./src/modbus.o
+ .text.modeBusInit
+                0x0000000000000000       0x74 ./src/modbus.o
+ .text.modeBusSendPaquet
+                0x0000000000000000       0x94 ./src/modbus.o
+ .text.modeBusCompute
+                0x0000000000000000       0x48 ./src/modbus.o
+ .data.modeBusaddress
+                0x0000000000000000        0x2 ./src/modbus.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x10 ./src/modbus.o
+ .debug_macro   0x0000000000000000      0x12d ./src/modbus.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x1c ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x1c ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x22 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/modbus.o
+ .debug_macro   0x0000000000000000      0x360 ./src/modbus.o
+ .debug_macro   0x0000000000000000      0x131 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0xa0 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0xd8 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x22 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x1c ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x1c ./src/modbus.o
+ .debug_macro   0x0000000000000000      0x136 ./src/modbus.o
+ .debug_macro   0x0000000000000000       0x22 ./src/modbus.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/oneWire.o
+ .text          0x0000000000000000        0x0 ./src/oneWire.o
+ .data          0x0000000000000000        0x0 ./src/oneWire.o
+ .bss           0x0000000000000000        0x0 ./src/oneWire.o
+ .text.SendReadOneWire
+                0x0000000000000000       0x8c ./src/oneWire.o
+ .text.getDataOneWire
+                0x0000000000000000       0x2c ./src/oneWire.o
+ .text.initOneWire
+                0x0000000000000000       0x28 ./src/oneWire.o
+ .text.startDHT22
+                0x0000000000000000       0x80 ./src/oneWire.o
+ .text.getDataDHT22
+                0x0000000000000000       0x44 ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x10 ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0x12d ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x52 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x1c ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x1c ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x22 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0x360 ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0x131 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x1c ./src/oneWire.o
+ .debug_macro   0x0000000000000000      0x136 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x22 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x16 ./src/oneWire.o
+ .debug_macro   0x0000000000000000       0x22 ./src/oneWire.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/pwm.o
+ .text          0x0000000000000000        0x0 ./src/pwm.o
+ .data          0x0000000000000000        0x0 ./src/pwm.o
+ .bss           0x0000000000000000        0x0 ./src/pwm.o
+ .text.init_pwm
+                0x0000000000000000       0x24 ./src/pwm.o
+ .text.setPwm   0x0000000000000000       0x58 ./src/pwm.o
+ .rodata.pwmOrder
+                0x0000000000000000        0x3 ./src/pwm.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x10 ./src/pwm.o
+ .debug_macro   0x0000000000000000      0x12d ./src/pwm.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x1c ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x1c ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x22 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/pwm.o
+ .debug_macro   0x0000000000000000      0x360 ./src/pwm.o
+ .debug_macro   0x0000000000000000      0x131 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x1c ./src/pwm.o
+ .debug_macro   0x0000000000000000      0x136 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x22 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x16 ./src/pwm.o
+ .debug_macro   0x0000000000000000       0x52 ./src/pwm.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/ssp.o
+ .text          0x0000000000000000        0x0 ./src/ssp.o
+ .data          0x0000000000000000        0x0 ./src/ssp.o
+ .bss           0x0000000000000000        0x0 ./src/ssp.o
+ .text.SSP_IOConfig
+                0x0000000000000000       0x8c ./src/ssp.o
+ .text.SSP_Init
+                0x0000000000000000       0x68 ./src/ssp.o
+ .text.SSP_Send
+                0x0000000000000000       0x60 ./src/ssp.o
+ .text.SSP_Receive
+                0x0000000000000000       0x64 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x10 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x12d ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x118 ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x1c ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x1c ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x22 ./src/ssp.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x360 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x131 ./src/ssp.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer16.o
+ .text          0x0000000000000000        0x0 ./src/timer16.o
+ .data          0x0000000000000000        0x0 ./src/timer16.o
+ .bss           0x0000000000000000        0x0 ./src/timer16.o
+ .text.delayMs  0x0000000000000000       0x88 ./src/timer16.o
+ .text.init_timer16
+                0x0000000000000000       0xac ./src/timer16.o
+ .text.init_timer16PWM
+                0x0000000000000000      0x160 ./src/timer16.o
+ .text.setMatch_timer16PWM
+                0x0000000000000000       0x60 ./src/timer16.o
+ .bss.timer16_0_capture
+                0x0000000000000000        0x4 ./src/timer16.o
+ .bss.timer16_0_counter
+                0x0000000000000000        0x4 ./src/timer16.o
+ .bss.timer16_0_period
+                0x0000000000000000        0x4 ./src/timer16.o
+ .bss.timer16_1_capture
+                0x0000000000000000        0x4 ./src/timer16.o
+ .bss.timer16_1_counter
+                0x0000000000000000        0x4 ./src/timer16.o
+ .bss.timer16_1_period
+                0x0000000000000000        0x4 ./src/timer16.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/timer16.o
+ .debug_macro   0x0000000000000000       0x10 ./src/timer16.o
+ .debug_macro   0x0000000000000000      0x12d ./src/timer16.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/timer16.o
+ .debug_macro   0x0000000000000000       0x52 ./src/timer16.o
+ .debug_macro   0x0000000000000000       0x1c ./src/timer16.o
+ .debug_macro   0x0000000000000000       0x1c ./src/timer16.o
+ .debug_macro   0x0000000000000000       0x22 ./src/timer16.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/timer16.o
+ .debug_macro   0x0000000000000000      0x360 ./src/timer16.o
+ .debug_macro   0x0000000000000000      0x131 ./src/timer16.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/timer32.o
+ .text          0x0000000000000000        0x0 ./src/timer32.o
+ .data          0x0000000000000000        0x0 ./src/timer32.o
+ .bss           0x0000000000000000        0x0 ./src/timer32.o
+ .text.delay32Ms
+                0x0000000000000000       0x90 ./src/timer32.o
+ .text.enable_timer32
+                0x0000000000000000       0x1c ./src/timer32.o
+ .text.reset_timer32
+                0x0000000000000000       0x24 ./src/timer32.o
+ .text.init_timer32
+                0x0000000000000000       0x60 ./src/timer32.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/timer32.o
+ .debug_macro   0x0000000000000000       0x1c ./src/timer32.o
+ .debug_macro   0x0000000000000000       0x10 ./src/timer32.o
+ .debug_macro   0x0000000000000000      0x12d ./src/timer32.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/timer32.o
+ .debug_macro   0x0000000000000000       0x1c ./src/timer32.o
+ .debug_macro   0x0000000000000000       0x22 ./src/timer32.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/timer32.o
+ .debug_macro   0x0000000000000000      0x360 ./src/timer32.o
+ .debug_macro   0x0000000000000000      0x131 ./src/timer32.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/triac.o
+ .text          0x0000000000000000        0x0 ./src/triac.o
+ .data          0x0000000000000000        0x0 ./src/triac.o
+ .bss           0x0000000000000000        0x0 ./src/triac.o
+ .text.init_triac
+                0x0000000000000000       0x38 ./src/triac.o
+ .text.set_triac
+                0x0000000000000000       0x20 ./src/triac.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/triac.o
+ .debug_macro   0x0000000000000000       0x1c ./src/triac.o
+ .debug_macro   0x0000000000000000       0x10 ./src/triac.o
+ .debug_macro   0x0000000000000000      0x12d ./src/triac.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x1c ./src/triac.o
+ .debug_macro   0x0000000000000000       0x22 ./src/triac.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/triac.o
+ .debug_macro   0x0000000000000000      0x360 ./src/triac.o
+ .debug_macro   0x0000000000000000      0x131 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x1c ./src/triac.o
+ .debug_macro   0x0000000000000000      0x136 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x22 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x52 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x22 ./src/triac.o
+ .debug_macro   0x0000000000000000       0x16 ./src/triac.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .group         0x0000000000000000        0xc ./src/uart.o
+ .text          0x0000000000000000        0x0 ./src/uart.o
+ .data          0x0000000000000000        0x0 ./src/uart.o
+ .bss           0x0000000000000000        0x0 ./src/uart.o
+ .text.UartSetCallback
+                0x0000000000000000        0xc ./src/uart.o
+ .text.UartInit
+                0x0000000000000000       0xc8 ./src/uart.o
+ .text.UartSend
+                0x0000000000000000       0x24 ./src/uart.o
+ .debug_macro   0x0000000000000000      0xa5a ./src/uart.o
+ .debug_macro   0x0000000000000000       0x1c ./src/uart.o
+ .debug_macro   0x0000000000000000       0x10 ./src/uart.o
+ .debug_macro   0x0000000000000000      0x12d ./src/uart.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/uart.o
+ .debug_macro   0x0000000000000000       0x1c ./src/uart.o
+ .debug_macro   0x0000000000000000       0x22 ./src/uart.o
+ .debug_macro   0x0000000000000000       0xb5 ./src/uart.o
+ .debug_macro   0x0000000000000000      0x360 ./src/uart.o
+ .debug_macro   0x0000000000000000      0x131 ./src/uart.o
+ .debug_macro   0x0000000000000000       0xa0 ./src/uart.o
+ .debug_macro   0x0000000000000000       0x22 ./src/uart.o
+ .debug_macro   0x0000000000000000       0xd8 ./src/uart.o
+ .debug_macro   0x0000000000000000       0x1c ./src/uart.o
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .text._terminateio
+                0x0000000000000000       0x4c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._fprintf
+                0x0000000000000000       0x2c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._printf_char
+                0x0000000000000000       0x34 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._sprintf
+                0x0000000000000000       0x6c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._snprintf
+                0x0000000000000000       0x6c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._vfprintf
+                0x0000000000000000       0x20 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._vprintf
+                0x0000000000000000       0x28 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text._vsprintf
+                0x0000000000000000       0x60 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .text.calloc   0x0000000000000000       0x50 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .text.realloc  0x0000000000000000       0x26 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .text.rename   0x0000000000000000       0x26 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x0000000000000000       0x14 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x0000000000000000       0x32 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dmul
+                0x0000000000000000      0x184 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ddiv
+                0x0000000000000000      0x148 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dsub
+                0x0000000000000000      0x1bc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dadd
+                0x0000000000000000      0x128 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x0000000000000000       0x14 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x0000000000000000        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2f
+                0x0000000000000000       0x60 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2iz
+                0x0000000000000000       0x44 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x0000000000000000       0x34 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x0000000000000000       0x7c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x0000000000000000       0x58 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ui2d
+                0x0000000000000000       0x5e /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x0000000000000000       0xb4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_i2d
+                0x0000000000000000       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x0000000000000000        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x0000000000000000       0x22 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x0000000000000000        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpeq
+                0x0000000000000000       0x30 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmplt
+                0x0000000000000000       0x5c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x0000000000000000       0x5c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x0000000000000000       0x5c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpge
+                0x0000000000000000       0x60 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x0000000000000000       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x0000000000000000       0x2e /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x0000000000000000       0x14 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .comment       0x0000000000000000       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x0000000000000000       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(double.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x0000000000000000       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x0000000000000000       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x0000000000000000       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x0000000000000000       0x14 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x0000000000000000       0x10 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x0000000000000000       0x1c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x0000000000000000        0x6 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x0000000000000000        0x8 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+ .text.__sys_rename
+                0x0000000000000000        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_rename.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x0000000000000000 0x0000000000004000 xr
+RamLoc8          0x0000000010000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/DS18B20.o
+LOAD ./src/TLI4970.o
+LOAD ./src/cr_startup_lpc11xx.o
+LOAD ./src/crp.o
+LOAD ./src/firmware.o
+LOAD ./src/gpio.o
+LOAD ./src/iap_driver.o
+LOAD ./src/main.o
+LOAD ./src/modbus.o
+LOAD ./src/oneWire.o
+LOAD ./src/pwm.o
+LOAD ./src/ssp.o
+LOAD ./src/timer16.o
+LOAD ./src/timer32.o
+LOAD ./src/triac.o
+LOAD ./src/uart.o
+START GROUP
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a
+LOAD /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a
+END GROUP
+                0x0000000000000000                __base_MFlash32 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000004000                __top_MFlash32 = 0x4000
+                0x0000000000004000                __top_Flash = 0x4000
+                0x0000000010000000                __base_RamLoc8 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010002000                __top_RamLoc8 = 0x10002000
+                0x0000000010002000                __top_RAM = 0x10002000
+
+.text           0x0000000000000000     0x2a3c
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc0 ./src/cr_startup_lpc11xx.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000c0                . = ALIGN (0x4)
+                0x00000000000000c0                __section_table_start = .
+                0x00000000000000c0                __data_section_table = .
+                0x00000000000000c0        0x4 LONG 0x2a3c LOADADDR (.data)
+                0x00000000000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000c8        0x4 LONG 0x18c SIZEOF (.data)
+                0x00000000000000cc                __data_section_table_end = .
+                0x00000000000000cc                __bss_section_table = .
+                0x00000000000000cc        0x4 LONG 0x10000190 ADDR (.bss)
+                0x00000000000000d0        0x4 LONG 0xaac SIZEOF (.bss)
+                0x00000000000000d4                __bss_section_table_end = .
+                0x00000000000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000d4       0x98 ./src/cr_startup_lpc11xx.o
+                0x00000000000000d4                NMI_Handler
+                0x00000000000000d6                HardFault_Handler
+                0x00000000000000d8                SVC_Handler
+                0x00000000000000da                PendSV_Handler
+                0x00000000000000de                IntDefaultHandler
+                0x00000000000000de                CAN_IRQHandler
+                0x00000000000000de                ADC_IRQHandler
+                0x00000000000000de                BOD_IRQHandler
+                0x00000000000000de                WAKEUP_IRQHandler
+                0x00000000000000de                I2C_IRQHandler
+                0x00000000000000de                WDT_IRQHandler
+                0x00000000000000e0                data_init
+                0x00000000000000fa                bss_init
+                0x0000000000000112                ResetISR
+ .after_vectors
+                0x000000000000016c       0x10 ./src/firmware.o
+                0x000000000000016c                SysTick_Handler
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x000000000000017c      0x180 ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__, .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.firmwareStore
+                0x0000000000000300       0xa0 ./src/firmware.o
+                0x0000000000000300                firmwareStore
+ .text.firmwareDecode
+                0x00000000000003a0       0x2e ./src/firmware.o
+                0x00000000000003a0                firmwareDecode
+ *fill*         0x00000000000003ce        0x2 ff
+ .text.PIOINT2_IRQHandler
+                0x00000000000003d0       0x40 ./src/gpio.o
+                0x00000000000003d0                PIOINT2_IRQHandler
+ .text.PIOINT3_IRQHandler
+                0x0000000000000410       0x40 ./src/gpio.o
+                0x0000000000000410                PIOINT3_IRQHandler
+ .text.GPIOIntEnable
+                0x0000000000000450       0x68 ./src/gpio.o
+                0x0000000000000450                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x00000000000004b8       0x68 ./src/gpio.o
+                0x00000000000004b8                GPIOIntDisable
+ .text.GPIOIntClear
+                0x0000000000000520       0x68 ./src/gpio.o
+                0x0000000000000520                GPIOIntClear
+ .text.configClock
+                0x0000000000000588       0x70 ./src/main.o
+                0x0000000000000588                configClock
+ .text.main     0x00000000000005f8      0x138 ./src/main.o
+                0x00000000000005f8                main
+ .text.modeBusCrc
+                0x0000000000000730       0x30 ./src/modbus.o
+                0x0000000000000730                modeBusCrc
+ .text.modeBusPaquetRead
+                0x0000000000000760      0x218 ./src/modbus.o
+                0x0000000000000760                modeBusPaquetRead
+ .text.TIMER32_0_IRQHandler
+                0x0000000000000978       0xb4 ./src/modbus.o
+                0x0000000000000978                TIMER32_0_IRQHandler
+ .text.TIMER16_0_IRQHandler
+                0x0000000000000a2c      0x300 ./src/oneWire.o
+                0x0000000000000a2c                TIMER16_0_IRQHandler
+ .text.PIOINT1_IRQHandler
+                0x0000000000000d2c       0x24 ./src/oneWire.o
+                0x0000000000000d2c                PIOINT1_IRQHandler
+ .text.TIMER32_1_IRQHandler
+                0x0000000000000d50       0xc0 ./src/pwm.o
+                0x0000000000000d50                TIMER32_1_IRQHandler
+ .text.SSP0_IRQHandler
+                0x0000000000000e10       0x48 ./src/ssp.o
+                0x0000000000000e10                SSP0_IRQHandler
+ .text.SSP1_IRQHandler
+                0x0000000000000e58       0x48 ./src/ssp.o
+                0x0000000000000e58                SSP1_IRQHandler
+ .text.enable_timer16
+                0x0000000000000ea0       0x1c ./src/timer16.o
+                0x0000000000000ea0                enable_timer16
+ .text.disable_timer16
+                0x0000000000000ebc       0x1c ./src/timer16.o
+                0x0000000000000ebc                disable_timer16
+ .text.reset_timer16
+                0x0000000000000ed8       0x24 ./src/timer16.o
+                0x0000000000000ed8                reset_timer16
+ .text.disable_timer32
+                0x0000000000000efc       0x1c ./src/timer32.o
+                0x0000000000000efc                disable_timer32
+ .text.PIOINT0_IRQHandler
+                0x0000000000000f18       0x2c ./src/triac.o
+                0x0000000000000f18                PIOINT0_IRQHandler
+ .text.TIMER16_1_IRQHandler
+                0x0000000000000f44       0x5c ./src/triac.o
+                0x0000000000000f44                TIMER16_1_IRQHandler
+ .text.UartIRQHandler
+                0x0000000000000fa0       0x88 ./src/uart.o
+                0x0000000000000fa0                UartIRQHandler
+ .text.__main   0x0000000000001028        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+                0x0000000000001028                __main
+                0x0000000000001028                __CR_SEMIHOST
+ .text.memcpy   0x0000000000001034        0x8 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+                0x0000000000001034                memcpy
+ .text._initio  0x000000000000103c       0x7c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+                0x000000000000103c                _initio
+ .text.no_fp_display
+                0x00000000000010b8        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .text.__vfprintf
+                0x00000000000010bc      0xcd4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+                0x00000000000010bc                __vfprintf
+ .text._vsnprintf
+                0x0000000000001d90       0x60 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+                0x0000000000001d90                _vsnprintf
+ .text._printf  0x0000000000001df0       0x50 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+                0x0000000000001df0                _printf
+ .text.setvbuf  0x0000000000001e40       0x48 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+                0x0000000000001e40                setvbuf
+ .text.strlen   0x0000000000001e88       0x58 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+                0x0000000000001e88                strlen
+ .text.memset   0x0000000000001ee0        0x8 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+                0x0000000000001ee0                memset
+ .text._deferredlazyseek
+                0x0000000000001ee8       0x40 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+                0x0000000000001ee8                _deferredlazyseek
+ .text.__flsbuf
+                0x0000000000001f28      0x14c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+                0x0000000000001f28                __flsbuf
+ .text._fdopen  0x0000000000002074       0x74 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+                0x0000000000002074                _fdopen
+ .text._fflush  0x00000000000020e8       0x5c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+                0x00000000000020e8                _fflush
+ .text._Cwritebuf
+                0x0000000000002144       0x68 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+                0x0000000000002144                _Cwritebuf
+ .text.malloc   0x00000000000021ac       0xcc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+                0x00000000000021ac                malloc
+ .text.free     0x0000000000002278       0x2c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+                0x0000000000002278                free
+ .text._Csys_alloc
+                0x00000000000022a4       0x20 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+                0x00000000000022a4                _Csys_alloc
+ .text.fclose   0x00000000000022c4       0x5c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+                0x00000000000022c4                fclose
+ .text.fflush   0x0000000000002320       0x44 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+                0x0000000000002320                fflush
+ .text.fseek    0x0000000000002364       0xf0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+                0x0000000000002364                fseek
+ .text.ftell    0x0000000000002454       0x48 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+                0x0000000000002454                ftell
+ .text.remove   0x000000000000249c       0x12 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+                0x000000000000249c                remove
+ *fill*         0x00000000000024ae        0x2 ff
+ .text._sbrk    0x00000000000024b0       0x40 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+                0x00000000000024b0                _sbrk
+ .text._do_fflush
+                0x00000000000024f0       0x44 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+                0x00000000000024f0                _do_fflush
+ .text.__check_heap_overflow
+                0x0000000000002534       0x14 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+                0x0000000000002534                __check_heap_overflow
+ .text.__aeabi_division_idivmod
+                0x0000000000002548       0x78 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+                0x0000000000002548                __aeabi_idiv
+                0x0000000000002548                __aeabi_idivmod
+                0x000000000000254e                __aeabi_uidiv
+                0x000000000000254e                __aeabi_uidivmod
+ .text.__aeabi_division_uldivmod
+                0x00000000000025c0       0x5a /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+                0x00000000000025c0                __aeabi_uldivmod
+ .text.__aeabi_division_idiv0
+                0x000000000000261a        0x2 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+                0x000000000000261a                __aeabi_idiv0
+ .text.__aeabi_llong_lmul
+                0x000000000000261c       0x2e /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+                0x000000000000261c                __aeabi_lmul
+ .text.__aeabi_memcpy
+                0x000000000000264a       0x2c /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+                0x000000000000264a                __aeabi_memcpy
+                0x000000000000264a                __aeabi_memcpy4
+                0x000000000000264a                __aeabi_memcpy8
+ .text.__aeabi_memset_lowlevel
+                0x0000000000002676       0x2a /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+                0x0000000000002676                __aeabi_lowlevel_memset
+ .text.__sys_appexit
+                0x00000000000026a0        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+                0x00000000000026a0                __exit
+                0x00000000000026a0                __sys_appexit
+ .text.__sys_close
+                0x00000000000026ac        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+                0x00000000000026ac                __sys_close
+ .text.__sys_flen
+                0x00000000000026b8        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+                0x00000000000026b8                __sys_flen
+ .text.__sys_istty
+                0x00000000000026c4        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+                0x00000000000026c4                __sys_istty
+ .text.__sys_remove
+                0x00000000000026d0        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+                0x00000000000026d0                __sys_remove
+ .text.__sys_seek
+                0x00000000000026dc        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+                0x00000000000026dc                __sys_seek
+ .text.__sys_tmpnam
+                0x00000000000026e8        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+                0x00000000000026e8                __sys_tmpnam
+ .text.__sys_write
+                0x00000000000026f4        0xc /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+                0x00000000000026f4                __sys_write
+ .text.__sys_write.__stub
+                0x0000000000002700       0x40 linker stubs
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.firmwareStore.str1.4
+                0x0000000000002740       0x1d ./src/firmware.o
+ *fill*         0x000000000000275d        0x3 ff
+ .rodata.str1.4
+                0x0000000000002760       0x14 ./src/firmware.o
+ .rodata.modeBusPaquetRead
+                0x0000000000002774       0x44 ./src/modbus.o
+ .rodata.wCRCTable
+                0x00000000000027b8      0x200 ./src/modbus.o
+ .rodata.TIMER16_0_IRQHandler
+                0x00000000000029b8       0x2c ./src/oneWire.o
+ .rodata._initio.str1.1
+                0x00000000000029e4        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .rodata.__vfprintf.str1.1
+                0x00000000000029e8       0x37 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+                                         0x38 (size before relaxing)
+ .rodata._Csys_alloc.str1.1
+                0x0000000000002a1f       0x18 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ *fill*         0x0000000000002a37        0x1 ff
+ .rodata.__num_Ciob_streams
+                0x0000000000002a38        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+                0x0000000000002a38                __num_Ciob_streams
+                0x0000000000002a3c                . = ALIGN (0x4)
+
+.glue_7         0x0000000000002a3c        0x0
+ .glue_7        0x0000000000002a3c        0x0 linker stubs
+
+.glue_7t        0x0000000000002a3c        0x0
+ .glue_7t       0x0000000000002a3c        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000002a3c        0x0
+ .vfp11_veneer  0x0000000000002a3c        0x0 linker stubs
+
+.v4_bx          0x0000000000002a3c        0x0
+ .v4_bx         0x0000000000002a3c        0x0 linker stubs
+
+.iplt           0x0000000000002a3c        0x0
+ .iplt          0x0000000000002a3c        0x0 ./src/cr_startup_lpc11xx.o
+
+.rel.dyn        0x0000000000002a3c        0x0
+ .rel.iplt      0x0000000000002a3c        0x0 ./src/cr_startup_lpc11xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000002a3c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000002a3c                __exidx_end = .
+                0x0000000000002a3c                _etext = .
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000      0x18c load address 0x0000000000002a3c
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ .ramfunc.$RAM  0x0000000010000000       0xe4 ./src/firmware.o
+                0x0000000010000000                firmwareFlash
+ .ramfunc.$RAM  0x00000000100000e4       0x78 ./src/iap_driver.o
+                0x00000000100000e4                iap_erase_sector
+                0x0000000010000110                iap_prepare_sector
+                0x0000000010000130                iap_copy_ram_to_flash
+ *fill*         0x000000001000015c        0x4 ff
+ .ramfunc.$RAM.__stub
+                0x0000000010000160       0x20 linker stubs
+ *(.data*)
+ .data.state    0x0000000010000180        0x1 ./src/modbus.o
+ .data.mode     0x0000000010000181        0x1 ./src/oneWire.o
+ .data.state_1W
+                0x0000000010000182        0x1 ./src/oneWire.o
+ .data.state_DHT
+                0x0000000010000183        0x1 ./src/oneWire.o
+ .data.power    0x0000000010000184        0x4 ./src/triac.o
+ .data.UARTTxEmpty
+                0x0000000010000188        0x1 ./src/uart.o
+                0x0000000010000188                UARTTxEmpty
+                0x000000001000018c                . = ALIGN (0x4)
+ *fill*         0x0000000010000189        0x3 ff
+                0x000000001000018c                _edata = .
+
+.igot.plt       0x000000001000018c        0x0 load address 0x0000000000002bc8
+ .igot.plt      0x000000001000018c        0x0 ./src/cr_startup_lpc11xx.o
+
+.bss            0x0000000010000190      0xaac load address 0x0000000000002bc8
+                0x0000000010000190                _bss = .
+ *(.bss*)
+ .bss.msTicks   0x0000000010000190        0x4 ./src/firmware.o
+                0x0000000010000190                msTicks
+ .bss.gpio2_counter
+                0x0000000010000194        0x4 ./src/gpio.o
+                0x0000000010000194                gpio2_counter
+ .bss.gpio3_counter
+                0x0000000010000198        0x4 ./src/gpio.o
+                0x0000000010000198                gpio3_counter
+ .bss.p2_1_counter
+                0x000000001000019c        0x4 ./src/gpio.o
+                0x000000001000019c                p2_1_counter
+ .bss.p3_1_counter
+                0x00000000100001a0        0x4 ./src/gpio.o
+                0x00000000100001a0                p3_1_counter
+ .bss.SystemCoreClock_1000
+                0x00000000100001a4        0x4 ./src/iap_driver.o
+                0x00000000100001a4                SystemCoreClock_1000
+ .bss.SystemCoreClock
+                0x00000000100001a8        0x4 ./src/main.o
+                0x00000000100001a8                SystemCoreClock
+ .bss.callBackRead
+                0x00000000100001ac        0x4 ./src/modbus.o
+                0x00000000100001ac                callBackRead
+ .bss.callBackWrite
+                0x00000000100001b0        0x4 ./src/modbus.o
+                0x00000000100001b0                callBackWrite
+ .bss.flagSendPaquet
+                0x00000000100001b4        0x1 ./src/modbus.o
+                0x00000000100001b4                flagSendPaquet
+ *fill*         0x00000000100001b5        0x3 
+ .bss.numByteaddress
+                0x00000000100001b8        0x4 ./src/modbus.o
+ .bss.paquet    0x00000000100001bc      0x418 ./src/modbus.o
+ .bss.paquetToSend
+                0x00000000100005d4      0x418 ./src/modbus.o
+                0x00000000100005d4                paquetToSend
+ .bss.data1wireRd
+                0x00000000100009ec        0xa ./src/oneWire.o
+ *fill*         0x00000000100009f6        0x2 
+ .bss.data1wireWr
+                0x00000000100009f8        0xa ./src/oneWire.o
+ *fill*         0x0000000010000a02        0x6 
+ .bss.dataDHT22
+                0x0000000010000a08        0x8 ./src/oneWire.o
+ .bss.lentgh_read
+                0x0000000010000a10        0x1 ./src/oneWire.o
+ .bss.lentgh_write
+                0x0000000010000a11        0x1 ./src/oneWire.o
+ .bss.posDataDHT22
+                0x0000000010000a12        0x1 ./src/oneWire.o
+ *fill*         0x0000000010000a13        0x1 
+ .bss.pos_data  0x0000000010000a14        0x2 ./src/oneWire.o
+ *fill*         0x0000000010000a16        0x2 
+ .bss.test      0x0000000010000a18        0x4 ./src/oneWire.o
+ .bss.timeDHT22
+                0x0000000010000a1c        0x2 ./src/oneWire.o
+ .bss.flag_new_sec
+                0x0000000010000a1e        0x1 ./src/pwm.o
+                0x0000000010000a1e                flag_new_sec
+ *fill*         0x0000000010000a1f        0x1 
+ .bss.time      0x0000000010000a20        0x8 ./src/pwm.o
+                0x0000000010000a20                time
+ .bss.time_s    0x0000000010000a28        0x8 ./src/pwm.o
+                0x0000000010000a28                time_s
+ .bss.interruptOverRunStat0
+                0x0000000010000a30        0x4 ./src/ssp.o
+                0x0000000010000a30                interruptOverRunStat0
+ .bss.interruptOverRunStat1
+                0x0000000010000a34        0x4 ./src/ssp.o
+                0x0000000010000a34                interruptOverRunStat1
+ .bss.interruptRxStat0
+                0x0000000010000a38        0x4 ./src/ssp.o
+                0x0000000010000a38                interruptRxStat0
+ .bss.interruptRxStat1
+                0x0000000010000a3c        0x4 ./src/ssp.o
+                0x0000000010000a3c                interruptRxStat1
+ .bss.interruptRxTimeoutStat0
+                0x0000000010000a40        0x4 ./src/ssp.o
+                0x0000000010000a40                interruptRxTimeoutStat0
+ .bss.interruptRxTimeoutStat1
+                0x0000000010000a44        0x4 ./src/ssp.o
+                0x0000000010000a44                interruptRxTimeoutStat1
+ .bss.UARTStatus
+                0x0000000010000a48        0x4 ./src/uart.o
+                0x0000000010000a48                UARTStatus
+ .bss.uart_cb   0x0000000010000a4c        0x4 ./src/uart.o
+                0x0000000010000a4c                uart_cb
+ .bss.__end_of_heap
+                0x0000000010000a50        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+                0x0000000010000a50                __end_of_heap
+ .bss.__heaps   0x0000000010000a54        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+                0x0000000010000a54                __heaps
+ .bss.errno     0x0000000010000a58        0x4 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+                0x0000000010000a58                errno
+ .bss.__Ciob    0x0000000010000a5c      0x1e0 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+                0x0000000010000a5c                __Ciob
+ *(COMMON)
+                0x0000000010000c3c                . = ALIGN (0x4)
+                0x0000000010000c3c                _ebss = .
+                [!provide]                        PROVIDE (end, .)
+
+.noinit         0x0000000010000c3c        0x0 load address 0x0000000000002bc8
+                0x0000000010000c3c                _noinit = .
+ *(.noinit*)
+                0x0000000010000c3c                . = ALIGN (0x4)
+                0x0000000010000c3c                _end_noinit = .
+                0x0000000010000c3c                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xffffffffefffdd41                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x0000000000000000                _image_start = LOADADDR (.text)
+                0x0000000000002bc8                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000002bc8                _image_size = (_image_end - _image_start)
+OUTPUT(rs485.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x8003
+ .debug_info    0x0000000000000000      0x234 ./src/cr_startup_lpc11xx.o
+ .debug_info    0x0000000000000234       0x3f ./src/crp.o
+ .debug_info    0x0000000000000273      0x9bc ./src/firmware.o
+ .debug_info    0x0000000000000c2f      0xe46 ./src/gpio.o
+ .debug_info    0x0000000000001a75      0x291 ./src/iap_driver.o
+ .debug_info    0x0000000000001d06      0xbb6 ./src/main.o
+ .debug_info    0x00000000000028bc     0x12e8 ./src/modbus.o
+ .debug_info    0x0000000000003ba4      0xabb ./src/oneWire.o
+ .debug_info    0x000000000000465f      0x46c ./src/pwm.o
+ .debug_info    0x0000000000004acb      0xb4a ./src/ssp.o
+ .debug_info    0x0000000000005615      0xd8e ./src/timer16.o
+ .debug_info    0x00000000000063a3      0x886 ./src/timer32.o
+ .debug_info    0x0000000000006c29      0x6e7 ./src/triac.o
+ .debug_info    0x0000000000007310      0xcf3 ./src/uart.o
+
+.debug_abbrev   0x0000000000000000     0x1eb5
+ .debug_abbrev  0x0000000000000000       0xed ./src/cr_startup_lpc11xx.o
+ .debug_abbrev  0x00000000000000ed       0x36 ./src/crp.o
+ .debug_abbrev  0x0000000000000123      0x241 ./src/firmware.o
+ .debug_abbrev  0x0000000000000364      0x30a ./src/gpio.o
+ .debug_abbrev  0x000000000000066e      0x156 ./src/iap_driver.o
+ .debug_abbrev  0x00000000000007c4      0x275 ./src/main.o
+ .debug_abbrev  0x0000000000000a39      0x3bc ./src/modbus.o
+ .debug_abbrev  0x0000000000000df5      0x2be ./src/oneWire.o
+ .debug_abbrev  0x00000000000010b3      0x1fa ./src/pwm.o
+ .debug_abbrev  0x00000000000012ad      0x284 ./src/ssp.o
+ .debug_abbrev  0x0000000000001531      0x2af ./src/timer16.o
+ .debug_abbrev  0x00000000000017e0      0x214 ./src/timer32.o
+ .debug_abbrev  0x00000000000019f4      0x24a ./src/triac.o
+ .debug_abbrev  0x0000000000001c3e      0x277 ./src/uart.o
+
+.debug_loc      0x0000000000000000     0x1f8f
+ .debug_loc     0x0000000000000000      0x1c8 ./src/cr_startup_lpc11xx.o
+ .debug_loc     0x00000000000001c8      0x310 ./src/firmware.o
+ .debug_loc     0x00000000000004d8      0x7c9 ./src/gpio.o
+ .debug_loc     0x0000000000000ca1      0x12f ./src/iap_driver.o
+ .debug_loc     0x0000000000000dd0      0x289 ./src/main.o
+ .debug_loc     0x0000000000001059      0x5d3 ./src/modbus.o
+ .debug_loc     0x000000000000162c      0x1d8 ./src/oneWire.o
+ .debug_loc     0x0000000000001804       0x4c ./src/pwm.o
+ .debug_loc     0x0000000000001850      0x2e9 ./src/ssp.o
+ .debug_loc     0x0000000000001b39      0x1e4 ./src/timer16.o
+ .debug_loc     0x0000000000001d1d      0x10a ./src/timer32.o
+ .debug_loc     0x0000000000001e27       0x32 ./src/triac.o
+ .debug_loc     0x0000000000001e59      0x136 ./src/uart.o
+
+.debug_aranges  0x0000000000000000      0x3b8
+ .debug_aranges
+                0x0000000000000000       0x60 ./src/cr_startup_lpc11xx.o
+ .debug_aranges
+                0x0000000000000060       0x18 ./src/crp.o
+ .debug_aranges
+                0x0000000000000078       0x38 ./src/firmware.o
+ .debug_aranges
+                0x00000000000000b0       0x70 ./src/gpio.o
+ .debug_aranges
+                0x0000000000000120       0x38 ./src/iap_driver.o
+ .debug_aranges
+                0x0000000000000158       0x38 ./src/main.o
+ .debug_aranges
+                0x0000000000000190       0x60 ./src/modbus.o
+ .debug_aranges
+                0x00000000000001f0       0x50 ./src/oneWire.o
+ .debug_aranges
+                0x0000000000000240       0x30 ./src/pwm.o
+ .debug_aranges
+                0x0000000000000270       0x48 ./src/ssp.o
+ .debug_aranges
+                0x00000000000002b8       0x50 ./src/timer16.o
+ .debug_aranges
+                0x0000000000000308       0x40 ./src/timer32.o
+ .debug_aranges
+                0x0000000000000348       0x38 ./src/triac.o
+ .debug_aranges
+                0x0000000000000380       0x38 ./src/uart.o
+
+.debug_ranges   0x0000000000000000      0x390
+ .debug_ranges  0x0000000000000000       0x50 ./src/cr_startup_lpc11xx.o
+ .debug_ranges  0x0000000000000050       0x60 ./src/firmware.o
+ .debug_ranges  0x00000000000000b0       0x60 ./src/gpio.o
+ .debug_ranges  0x0000000000000110       0x28 ./src/iap_driver.o
+ .debug_ranges  0x0000000000000138       0x28 ./src/main.o
+ .debug_ranges  0x0000000000000160       0xd8 ./src/modbus.o
+ .debug_ranges  0x0000000000000238       0x40 ./src/oneWire.o
+ .debug_ranges  0x0000000000000278       0x20 ./src/pwm.o
+ .debug_ranges  0x0000000000000298       0x38 ./src/ssp.o
+ .debug_ranges  0x00000000000002d0       0x40 ./src/timer16.o
+ .debug_ranges  0x0000000000000310       0x30 ./src/timer32.o
+ .debug_ranges  0x0000000000000340       0x28 ./src/triac.o
+ .debug_ranges  0x0000000000000368       0x28 ./src/uart.o
+
+.debug_macro    0x0000000000000000      0xdc2
+ .debug_macro   0x0000000000000000       0x1d ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x000000000000001d       0x1a ./src/crp.o
+ .debug_macro   0x0000000000000037       0x34 ./src/crp.o
+ .debug_macro   0x000000000000006b       0xef ./src/firmware.o
+ .debug_macro   0x000000000000015a       0x82 ./src/firmware.o
+ .debug_macro   0x00000000000001dc       0x10 ./src/firmware.o
+ .debug_macro   0x00000000000001ec       0x10 ./src/firmware.o
+ .debug_macro   0x00000000000001fc       0xa0 ./src/firmware.o
+ .debug_macro   0x000000000000029c       0x22 ./src/firmware.o
+ .debug_macro   0x00000000000002be       0xd2 ./src/firmware.o
+ .debug_macro   0x0000000000000390       0x8d ./src/gpio.o
+ .debug_macro   0x000000000000041d       0x22 ./src/gpio.o
+ .debug_macro   0x000000000000043f       0xd3 ./src/iap_driver.o
+ .debug_macro   0x0000000000000512      0x156 ./src/main.o
+ .debug_macro   0x0000000000000668       0x22 ./src/main.o
+ .debug_macro   0x000000000000068a       0xd8 ./src/main.o
+ .debug_macro   0x0000000000000762       0x1c ./src/main.o
+ .debug_macro   0x000000000000077e       0x16 ./src/main.o
+ .debug_macro   0x0000000000000794       0x52 ./src/main.o
+ .debug_macro   0x00000000000007e6      0x107 ./src/modbus.o
+ .debug_macro   0x00000000000008ed       0x1c ./src/modbus.o
+ .debug_macro   0x0000000000000909       0x10 ./src/modbus.o
+ .debug_macro   0x0000000000000919       0xc2 ./src/oneWire.o
+ .debug_macro   0x00000000000009db       0xb7 ./src/pwm.o
+ .debug_macro   0x0000000000000a92       0x93 ./src/ssp.o
+ .debug_macro   0x0000000000000b25       0x8d ./src/timer16.o
+ .debug_macro   0x0000000000000bb2       0x8e ./src/timer32.o
+ .debug_macro   0x0000000000000c40       0xc0 ./src/triac.o
+ .debug_macro   0x0000000000000d00       0xc2 ./src/uart.o
+
+.debug_line     0x0000000000000000     0x21df
+ .debug_line    0x0000000000000000       0x8f ./src/cr_startup_lpc11xx.o
+ .debug_line    0x000000000000008f       0x79 ./src/crp.o
+ .debug_line    0x0000000000000108      0x339 ./src/firmware.o
+ .debug_line    0x0000000000000441      0x2f8 ./src/gpio.o
+ .debug_line    0x0000000000000739      0x22b ./src/iap_driver.o
+ .debug_line    0x0000000000000964      0x36a ./src/main.o
+ .debug_line    0x0000000000000cce      0x3d0 ./src/modbus.o
+ .debug_line    0x000000000000109e      0x30f ./src/oneWire.o
+ .debug_line    0x00000000000013ad      0x20f ./src/pwm.o
+ .debug_line    0x00000000000015bc      0x281 ./src/ssp.o
+ .debug_line    0x000000000000183d      0x2c6 ./src/timer16.o
+ .debug_line    0x0000000000001b03      0x245 ./src/timer32.o
+ .debug_line    0x0000000000001d48      0x234 ./src/triac.o
+ .debug_line    0x0000000000001f7c      0x263 ./src/uart.o
+
+.debug_str      0x0000000000000000     0x90eb
+ .debug_str     0x0000000000000000     0x2de7 ./src/cr_startup_lpc11xx.o
+                                       0x2dfa (size before relaxing)
+ .debug_str     0x0000000000002de7       0xe9 ./src/crp.o
+                                       0x2d4a (size before relaxing)
+ .debug_str     0x0000000000002ed0     0x434e ./src/firmware.o
+                                       0x7140 (size before relaxing)
+ .debug_str     0x000000000000721e      0x54d ./src/gpio.o
+                                       0x6a8a (size before relaxing)
+ .debug_str     0x000000000000776b      0x134 ./src/iap_driver.o
+                                       0x6873 (size before relaxing)
+ .debug_str     0x000000000000789f      0xc13 ./src/main.o
+                                       0x7b9c (size before relaxing)
+ .debug_str     0x00000000000084b2      0x35a ./src/modbus.o
+                                       0x7a0e (size before relaxing)
+ .debug_str     0x000000000000880c      0x27c ./src/oneWire.o
+                                       0x71cc (size before relaxing)
+ .debug_str     0x0000000000008a88       0x3b ./src/pwm.o
+                                       0x6cfd (size before relaxing)
+ .debug_str     0x0000000000008ac3      0x43c ./src/ssp.o
+                                       0x6d37 (size before relaxing)
+ .debug_str     0x0000000000008eff       0xeb ./src/timer16.o
+                                       0x6b3f (size before relaxing)
+ .debug_str     0x0000000000008fea       0x1b ./src/timer32.o
+                                       0x67d2 (size before relaxing)
+ .debug_str     0x0000000000009005       0x4a ./src/triac.o
+                                       0x6f97 (size before relaxing)
+ .debug_str     0x000000000000904f       0x9c ./src/uart.o
+                                       0x6f9a (size before relaxing)
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e ./src/cr_startup_lpc11xx.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./src/crp.o
+ .comment       0x000000000000007e       0x7f ./src/firmware.o
+ .comment       0x000000000000007e       0x7f ./src/gpio.o
+ .comment       0x000000000000007e       0x7f ./src/iap_driver.o
+ .comment       0x000000000000007e       0x7f ./src/main.o
+ .comment       0x000000000000007e       0x7f ./src/modbus.o
+ .comment       0x000000000000007e       0x7f ./src/oneWire.o
+ .comment       0x000000000000007e       0x7f ./src/pwm.o
+ .comment       0x000000000000007e       0x7f ./src/ssp.o
+ .comment       0x000000000000007e       0x7f ./src/timer16.o
+ .comment       0x000000000000007e       0x7f ./src/timer32.o
+ .comment       0x000000000000007e       0x7f ./src/triac.o
+ .comment       0x000000000000007e       0x7f ./src/uart.o
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+ .comment       0x000000000000007e       0x7f /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x31 ./src/cr_startup_lpc11xx.o
+ .ARM.attributes
+                0x0000000000000031       0x31 ./src/crp.o
+ .ARM.attributes
+                0x0000000000000062       0x31 ./src/firmware.o
+ .ARM.attributes
+                0x0000000000000093       0x31 ./src/gpio.o
+ .ARM.attributes
+                0x00000000000000c4       0x31 ./src/iap_driver.o
+ .ARM.attributes
+                0x00000000000000f5       0x31 ./src/main.o
+ .ARM.attributes
+                0x0000000000000126       0x31 ./src/modbus.o
+ .ARM.attributes
+                0x0000000000000157       0x31 ./src/oneWire.o
+ .ARM.attributes
+                0x0000000000000188       0x31 ./src/pwm.o
+ .ARM.attributes
+                0x00000000000001b9       0x31 ./src/ssp.o
+ .ARM.attributes
+                0x00000000000001ea       0x31 ./src/timer16.o
+ .ARM.attributes
+                0x000000000000021b       0x31 ./src/timer32.o
+ .ARM.attributes
+                0x000000000000024c       0x31 ./src/triac.o
+ .ARM.attributes
+                0x000000000000027d       0x31 ./src/uart.o
+ .ARM.attributes
+                0x00000000000002ae       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(_cr__main.o)
+ .ARM.attributes
+                0x00000000000002df       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000000000000310       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(initio.o)
+ .ARM.attributes
+                0x0000000000000341       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(printf.o)
+ .ARM.attributes
+                0x0000000000000372       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(setvbuf.o)
+ .ARM.attributes
+                0x00000000000003a3       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x00000000000003d4       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(memset.o)
+ .ARM.attributes
+                0x0000000000000405       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_deferredlazyseek.o)
+ .ARM.attributes
+                0x0000000000000436       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fdopen.o)
+ .ARM.attributes
+                0x0000000000000467       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_fflush.o)
+ .ARM.attributes
+                0x0000000000000498       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_writebuf.o)
+ .ARM.attributes
+                0x00000000000004c9       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x00000000000004fa       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fclose.o)
+ .ARM.attributes
+                0x000000000000052b       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fflush.o)
+ .ARM.attributes
+                0x000000000000055c       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(fseek.o)
+ .ARM.attributes
+                0x000000000000058d       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(ftell.o)
+ .ARM.attributes
+                0x00000000000005be       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(remove.o)
+ .ARM.attributes
+                0x00000000000005ef       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x0000000000000620       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x0000000000000651       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_do_fflush.o)
+ .ARM.attributes
+                0x0000000000000682       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(errno.o)
+ .ARM.attributes
+                0x00000000000006b3       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_c.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x00000000000006e4       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x0000000000000705       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x0000000000000726       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x0000000000000747       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x0000000000000768       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x0000000000000789       0x31 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__ciob.o)
+ .ARM.attributes
+                0x00000000000007ba       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_appexit.o)
+ .ARM.attributes
+                0x00000000000007db       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_close.o)
+ .ARM.attributes
+                0x00000000000007fc       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_flen.o)
+ .ARM.attributes
+                0x000000000000081d       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_istty.o)
+ .ARM.attributes
+                0x000000000000083e       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_remove.o)
+ .ARM.attributes
+                0x000000000000085f       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_seek.o)
+ .ARM.attributes
+                0x0000000000000880       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .ARM.attributes
+                0x00000000000008a1       0x21 /usr/local/mcuxpressoide-10.2.1_795/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/libcr_semihost.a(__sys_write.o)
+
+.debug_frame    0x0000000000000000      0x7c8
+ .debug_frame   0x0000000000000000       0xc0 ./src/cr_startup_lpc11xx.o
+ .debug_frame   0x00000000000000c0       0x7c ./src/firmware.o
+ .debug_frame   0x000000000000013c       0xec ./src/gpio.o
+ .debug_frame   0x0000000000000228       0x70 ./src/iap_driver.o
+ .debug_frame   0x0000000000000298       0x78 ./src/main.o
+ .debug_frame   0x0000000000000310      0x10c ./src/modbus.o
+ .debug_frame   0x000000000000041c       0xbc ./src/oneWire.o
+ .debug_frame   0x00000000000004d8       0x5c ./src/pwm.o
+ .debug_frame   0x0000000000000534       0xa8 ./src/ssp.o
+ .debug_frame   0x00000000000005dc       0xa8 ./src/timer16.o
+ .debug_frame   0x0000000000000684       0x74 ./src/timer32.o
+ .debug_frame   0x00000000000006f8       0x60 ./src/triac.o
+ .debug_frame   0x0000000000000758       0x70 ./src/uart.o
